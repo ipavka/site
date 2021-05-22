@@ -586,8 +586,6 @@ body {
 }
 
 .contact-top {
-    /* display: flex; */
-    /* justify-content: space-between; */
     flex-direction: column;
 }
 
@@ -668,5 +666,4 @@ body {
     letter-spacing: 0.04em;
     color: #1F3F68;
     opacity: 0.6;
-}
 }
