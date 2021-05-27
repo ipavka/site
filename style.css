@@ -92,7 +92,8 @@
 }
 
 body {
-    font-family: sans-serif;
+/*     font-family: sans-serif; */
+    font-family: 'Ubuntu', sans-serif;
     max-width: 1400px;
     margin: auto;
 
